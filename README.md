@@ -1,1 +1,1 @@
-Like to deal with Java
+Мне нравится программировать на Java
